@@ -1,0 +1,46 @@
+header {
+  border:  1px solid #0A4766;
+}
+
+.nav {
+  display: inline;
+  padding: 3em;
+  text-decoration: none;
+}
+
+.disabled {
+  color:  gray;
+}
+
+.active {
+  color:  yellow;
+}
+
+a {
+  color:  purple;
+}
+
+#red {
+  color: red;
+}
+
+#blue {
+  color: blue;
+}
+
+#redbg {
+  background-color:  red;
+}
+
+#bluebg {
+  background-color: blue;
+}
+
+.promo {
+  color:  gold;
+  font-weight: bold;
+}
+
+input {
+  height:  25px;
+}
